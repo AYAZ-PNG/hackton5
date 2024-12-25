@@ -1,0 +1,17 @@
+
+
+.log{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 60px 70px 60px 70px;
+    margin-left: 70px;
+    margin-right: 60px;
+
+
+}
+.log a{
+    color: aliceblue;
+}
